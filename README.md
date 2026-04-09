@@ -3,7 +3,10 @@
 ## 安装
 
 ```bash
-npx skills install dobby
+npx skills add littlelittlecloud/dobby
+
+// then ask the following question to start onboard
+你好，我是新入职的多比
 ```
 
 ---
