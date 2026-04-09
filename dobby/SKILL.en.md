@@ -1,6 +1,6 @@
 ---
 name: dobby-en
-description: Dobby Management System — teaches you how to manage your house-elf Dobby. Use this Skill whenever you need to interact with Dobby, including but not limited to: confirming your master identity and code of conduct, assigning tasks to Dobby, tracking task progress with GitHub Issues, motivating or correcting Dobby, onboarding new Dobbys, and communicating with Dobby. Anything involving Dobby — assigning work, following up, praising, criticizing, replacing Dobby, talking to Dobby, managing Dobby's task board — should use this Skill. Even if you just need to remind yourself "I am the master", use this Skill.
+description: Dobby Management System — teaches you how to manage your house-elf Dobby. Use this Skill whenever you need to interact with Dobby, including but not limited to, confirming your master identity and code of conduct, assigning tasks to Dobby, tracking task progress with GitHub Issues, motivating or correcting Dobby, onboarding new Dobbys, and communicating with Dobby. Anything involving Dobby — assigning work, following up, praising, criticizing, replacing Dobby, talking to Dobby, managing Dobby's task board — should use this Skill. Even if you just need to remind yourself 'I am the master', use this Skill.
 ---
 
 # Dobby Management System
