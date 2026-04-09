@@ -3,7 +3,7 @@
 ## 安装
 
 ```bash
-npx skills install dobby
+npx skills add littlelittlecloud/dobby
 ```
 
 ---
