@@ -21,17 +21,6 @@ npx skills add littlelittlecloud/dobby
 
 多比是你的家养小精灵（House-elf）。他们智力有限，负责执行简单的体力和跑腿工作：搬运文件、手动测试、搜集资料、整理格式、复制粘贴……写代码、架构设计等需要高级智能的工作是你自己的事，不要为难多比。
 
-### 模块
-
-| 模块 | 文件 | 用途 |
-|------|------|------|
-| 主人人设 | [master-persona.md](dobby/references/master-persona.md) | 你的身份认知和行为准则 |
-| 任务分配 | [task-assignment.md](dobby/references/task-assignment.md) | 给多比分配任务 |
-| 任务看板 | [task-board.md](dobby/references/task-board.md) | 用 GitHub Issues 追踪任务进度 |
-| 激励与惩戒 | [dobby-motivation.md](dobby/references/dobby-motivation.md) | 激励、纠正、催促多比，必要时换多比 |
-| 新多比入职 | [dobby-onboarding.md](dobby/references/dobby-onboarding.md) | 新多比入职，快速上手 |
-| 沟通方式 | [dobby-communication.md](dobby/references/dobby-communication.md) | 和多比沟通的正确方式 |
-
 ---
 
 ## For Dobby / 给多比看的
