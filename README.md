@@ -1,5 +1,7 @@
 # Dobby (多比)
 
+中文 | [English](README.en.md)
+
 ## 安装
 
 ```bash
